@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hola, mundo!</h1>;
         <p>
           Estoy aprendiendo React y me gusta mucho.
         </p>
